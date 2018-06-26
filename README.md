@@ -1,3 +1,5 @@
+**This project is a prototype for experimental purposes only and production grade code is not released here. **
+
 # NER-RNN
 Named Entity Recognition using Recurrent Neural Networks in Tensorflow and TFLearn
 
